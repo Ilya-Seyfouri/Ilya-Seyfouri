@@ -1,19 +1,27 @@
 # Hi there, I'm Ilya Seyfouri! 👋
 
+
 ---
+
 
 ## 💫 About Me
 
-I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications, and the AI Era.
+I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications, and the era of AI.
+
+
 
 ## 🌐 Portfolio
 
 🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
 
+
+
 ## 🚀 What I'm Currently Working On
 
 - 💻 **Building FastAPI applications with PostgreSQL**  
 - 🔧 **Developing full-stack projects**
+
+- 
 
 ## 🛠️ Tech Stack
 
@@ -26,11 +34,15 @@ I am a second-year computer science student at Newcastle University. I am passio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
+
+
 ### Frameworks & Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+
 
 ## 🤝 Let's Connect!
 
