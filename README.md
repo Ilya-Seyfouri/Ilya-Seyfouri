@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Ilya Seyfouri! 👋</h1>
 
-## 💫 About Me
+<h2>💫 About Me</h2>
 
 I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications, and the era of AI.
 
+<br>
 
 ## 🌐 Portfolio
 
