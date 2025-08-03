@@ -1,8 +1,9 @@
-# Hi there, I'm Ilya Seyfouri! 👋
+<h1 align="center">Hi there, I'm Ilya Seyfouri! 👋</h1>
 
 
 
-<br><br>
+
+<br>
 
 ## 💫 About Me
 
@@ -10,7 +11,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 
 
-<br><br>
+<br>
 
 ## 🌐 Portfolio
 
@@ -18,15 +19,14 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 
 
-<br><br>
-
+<br>
 ## 🚀 What I'm Currently Working On
 
 - 💻 **Building FastAPI applications with PostgreSQL**  
 - 🔧 **Developing full-stack projects**
 
 
-<br><br>
+<br>
 
 
 ## 🛠️ Tech Stack
@@ -42,7 +42,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 
 
-<br><br>
+<br>
 
 ### Frameworks & Technologies
 
@@ -52,7 +52,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 
 
-<br><br>
+<br>
 
 ## 🤝 Let's Connect!
 
