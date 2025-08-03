@@ -9,7 +9,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
 
-
+<br>
 
 
 ## 🚀 What I'm Currently Working On
@@ -17,6 +17,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 - 💻 **Building FastAPI applications with PostgreSQL**  
 - 🔧 **Developing full-stack projects**
 
+<br>
 
 ## 🛠️ Tech Stack
 
