@@ -4,7 +4,7 @@
 
 I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications, and the era of AI.
 
-<br>
+
 
 ## 🚀 What I'm Currently Working On
 
