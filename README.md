@@ -1,14 +1,9 @@
-                                                                                                            # Hi there, I'm Ilya Seyfouri! 👋
+                                                                                                              Hi there, I'm Ilya Seyfouri! 👋
 
 
 ## 💫 About Me
 
-🎓 **Second-year Computer Science student** at Newcastle University  
-🚀 Passionate about **coding**, **machine learning**, and building **robust applications**  
-💡 Always eager to learn new technologies and solve challenging problems  
-🌟 Turning ideas into reality through code
-
-
+I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications and the AI Era.
 ## 🌐 Portfolio
 
 🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
@@ -16,7 +11,6 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🤖 **Exploring Machine Learning** -
 - 💻 **Building FastAPI applications with PostgreSQL** 
 - 🔧 **Developing full-stack projects** 
 
@@ -37,22 +31,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you'd like to collaborate on projects, discuss tech, or just have a chat!
 
+[LinkedIn](www.linkedin.com/in/ilya-seyfouri-3824422a0)
+
 ---
 
-<div align="center">
-  <i>⭐️ From [Ilya Seyfouri](https://github.com/YOUR_GITHUB_USERNAME)</i>
-</div>
