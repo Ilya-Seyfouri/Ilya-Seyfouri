@@ -1,8 +1,5 @@
-# Hi there, I'm Ilya Seyfouri! 👋
+                                                                                                            # Hi there, I'm Ilya Seyfouri! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</div>
 
 ## 💫 About Me
 
@@ -11,12 +8,18 @@
 💡 Always eager to learn new technologies and solve challenging problems  
 🌟 Turning ideas into reality through code
 
+
+## 🌐 Portfolio
+
+🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
+
+
 ## 🚀 What I'm Currently Working On
 
-- 🤖 **Exploring Machine Learning** - Diving deep into AI and data science
-- 💻 **Building FastAPI applications** with PostgreSQL integration
-- 🔧 **Developing full-stack projects** to expand my skillset
-- 📚 **Continuous learning** through coursework and personal projects
+- 🤖 **Exploring Machine Learning** -
+- 💻 **Building FastAPI applications with PostgreSQL** 
+- 🔧 **Developing full-stack projects** 
+
 
 ## 🛠️ Tech Stack
 
@@ -33,9 +36,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌐 Portfolio
-
-🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
 
 ## 📊 GitHub Stats
 
