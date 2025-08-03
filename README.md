@@ -3,25 +3,33 @@
 
 ---
 
+<br><br>
+<br><br>
 
 ## 💫 About Me
 
 I am a second-year computer science student at Newcastle University. I am passionate about exploring the realms of coding, building robust applications, and the era of AI.
 
 
+<br><br>
+<br><br>
 
 ## 🌐 Portfolio
 
 🔗 **Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
 
 
+<br><br>
+<br><br>
 
 ## 🚀 What I'm Currently Working On
 
 - 💻 **Building FastAPI applications with PostgreSQL**  
 - 🔧 **Developing full-stack projects**
 
-- 
+<br><br>
+<br><br>
+
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +43,8 @@ I am a second-year computer science student at Newcastle University. I am passio
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 
+<br><br>
+<br><br>
 
 ### Frameworks & Technologies
 
@@ -43,6 +53,8 @@ I am a second-year computer science student at Newcastle University. I am passio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
+<br><br>
+<br><br>
 
 ## 🤝 Let's Connect!
 
