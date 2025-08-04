@@ -11,7 +11,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 - 💻 **Building FastAPI applications with PostgreSQL**  
 - 🔧 **Developing full-stack projects**
   
-**Check out my coding portfolio:** [ilya.up.railway.app](https://ilya.up.railway.app)
+**Check out my coding portfolio:** [ilya.up.railway.app](https://ilyas.up.railway.app)
 
 
 ## 🛠️ Tech Stack
