@@ -17,11 +17,14 @@ I am a second-year computer science student at Newcastle University. I am passio
 
 
 
+
 ## 🤝 Let's Connect!
 
 Feel free to reach out if you'd like to collaborate on projects, discuss tech, or just have a chat!
 
 [LinkedIn](https://www.linkedin.com/in/ilya-seyfouri-3824422a0)
+
+
 
 
 
