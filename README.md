@@ -11,7 +11,7 @@ I am a second-year computer science student at Newcastle University. I am passio
 - 💻 **Exploring Machine Learning**
 - 🔧 **Developing SaaS Products with Paying Customers**
   
-**Check out my** [coding portfolio](https://ilyas.up.railway.app)
+**Check out my** [coding portfolio](https://ilya.up.railway.app/)
 
 
 
